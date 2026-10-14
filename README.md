@@ -28,7 +28,7 @@ Reed Scraper is a **free and open-source** scraper that gets you **unlimited** d
     "profile_id": 9810,
     "company_profile_id": 86205,
     "link": "https://www.reed.co.uk/jobs/southern-lights/p9810",
-    "logo": "https://resources.reed.co.uk/profileimages/logos/Logo_9810.png"
+    "logo": "https://resources.reed.co.uk/profileimages/logos/thumbs/Logo_9810.png"
   },
   "sector": { "id": 138, "name": "Software Engineer", "parent_id": 52, "parent_name": "IT & Telecoms" },
   "skills": ["API Connectivity", "AWS & Azure Cloud", "Full Stack Development", "Python", "React (JavaScript)"],

@@ -255,10 +255,12 @@ def get_json(path, params=None, *, label=None, referer=None):
             raise ReedBlocked(f"HTTP {status} on {label}")
         if status == 400:
             raise ReedBadRequest(f"upstream rejected {label}")
-        if status == 204 or not body.strip():
+        if status == 204:
             return None
         if status != 200:
             raise ReedUpstreamError(f"HTTP {status} on {label}")
+        if not body.strip():
+            return None
         if not body.lstrip().startswith(("{", "[")):
             dump_debug("nonjson", body)
             raise ReedBlocked(f"{label} returned HTML, not JSON")

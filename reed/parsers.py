@@ -544,7 +544,9 @@ def job_details(jd, canonical_link=None, truncated=False):
                 "recruitment_agency" if jd.get("isAgency") else "direct_employer" if jd.get("isEmployer") else "reed" if jd.get("isReed") else None),
             "link": refs.employer_jobs_link(profile_id, text(owner.get("profileUrl"))),
             "company_profile_link": refs.company_profile_link(text(owner.get("companyProfileUrl")) or company_profile_id),
-            "logo": refs.logo_link(logo),
+            # Reed serves profile logos only under logos/thumbs/ (the plain path 404s);
+            # banners live at the plain path.
+            "logo": refs.logo_link(logo, thumb=True),
             "banner": refs.logo_link(banner),
             "job_reference": text(owner.get("reference")),
         },

@@ -175,6 +175,21 @@ def test_search_rows_and_facets():
     assert P.similar_searches(props["searchResults"]["similarSearchResponses"])[0]["link"] == "https://www.reed.co.uk/jobs/care-assistant-jobs-in-leeds"
 
 
+def test_search_block_pagination_caps_at_retrievable_depth():
+    from reed.jobs import MAX_RESULTS, search_block
+    props = fx("search_pageprops")
+    assert search_block(props, {}, {"page": 1, "per_page": 25})["pagination"] == {"page": 1, "items_per_page": 25, "total_pages": 1, "total_count": 11}
+    deep = dict(props, searchResults=dict(props["searchResults"], count=50000))
+    block = search_block(deep, {}, {"page": 1, "per_page": 30})
+    # 50,000 adverts, but only the first 10,000 are reachable and the schema
+    # rejects page x per_page beyond that: the last page must still validate
+    assert block["pagination"]["total_count"] == 50000 and block["retrievable_count"] == MAX_RESULTS
+    assert block["pagination"]["total_pages"] == 333 and 333 * 30 <= MAX_RESULTS < 334 * 30
+    schemas.JobSearchSchema().load({"query": "x", "page": "333", "per_page": "30"})
+    with pytest.raises(ValidationError):
+        schemas.JobSearchSchema().load({"query": "x", "page": "334", "per_page": "30"})
+
+
 def test_card_salaries_merge():
     salaries = P.card_salaries(page("search_page"))
     assert len(salaries) == 25 and salaries["57377207"] == "£550 - £617.55 per day"
@@ -208,7 +223,7 @@ def test_job_details():
                                "company_profile_id": 746, "type": "direct_employer",
                                "link": "https://www.reed.co.uk/jobs/fdm-group/p4784",
                                "company_profile_link": "https://www.reed.co.uk/company-profile/FDM-Group-746",
-                               "logo": "https://resources.reed.co.uk/profileimages/logos/Logo_4784.png",
+                               "logo": "https://resources.reed.co.uk/profileimages/logos/thumbs/Logo_4784.png",
                                "banner": "https://resources.reed.co.uk/profileimages/logos/HeroBanner_4784.png",
                                "job_reference": "3165"}
     assert job["sector"] == {"id": 138, "name": "Software Engineer", "parent_id": 52, "parent_name": "IT & Telecoms"}

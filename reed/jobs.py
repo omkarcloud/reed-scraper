@@ -170,11 +170,15 @@ def search_block(props, salaries, kw):
     page = kw.get("page") or 1
     per_page = kw.get("per_page") or 25
     total = P.to_int(results.get("count")) or 0
+    pagination = P.pagination(page, per_page, total)
+    # only the first MAX_RESULTS are reachable (and the schema rejects
+    # page x per_page beyond it), so the last page / next link stop there
+    pagination["total_pages"] = min(pagination["total_pages"], MAX_RESULTS // per_page)
     return {
         "applied": applied_criteria(props.get("criteria"), kw),
         "location_resolved": P.text(results.get("preferredLocationName")),
         "location_substitutes": P.location_substitutes(results.get("locationSubstitutes")),
-        "pagination": P.pagination(page, per_page, total),
+        "pagination": pagination,
         "retrievable_count": min(total, MAX_RESULTS),
         "facets": P.search_facets(results.get("searchFacets"), sector_names),
         "similar_searches": P.similar_searches(results.get("similarSearchResponses")),
