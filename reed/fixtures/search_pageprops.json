@@ -1,0 +1,1376 @@
+{
+ "metaDescription": "Find Permanent Nurse jobs in Leeds with Reed.co.uk. Discover Permanent Nurse vacancies on offer, in and around Leeds, helping you ❤ Mondays.",
+ "title": "Permanent Nurse Jobs in Leeds | Reed.co.uk",
+ "resultsHeading": "11 <a href=\"/jobs/nurse-jobs?keywords=nurse\" title=\"Nurse jobs\">Nurse</a> Jobs near <a href=\"/jobs/jobs-in-leeds?locationName=Leeds\" title=\"Leeds jobs\">Leeds</a>",
+ "getCriteoSource": false,
+ "hideExcludeViewedJobsFeature": false,
+ "coursesRecommendations": {
+  "title": "Nurse",
+  "searchUrl": "https://www.reed.co.uk/courses/health-social-care",
+  "searchText": "View Health and social care courses",
+  "searchTitle": "Health and social care",
+  "recommendedCourses": [
+   {
+    "id": 506681,
+    "title": "Level 3 Certificate in Nursing Assistant with Phlebotomy & Healthcare Assistant",
+    "url": "/courses/level-3-certificate-in-nursing-assistant-with-phlebotomy-healthcare-assistant/506681",
+    "price": "£15",
+    "type": "Online, Self-paced",
+    "searchKeywords": "nurse",
+    "position": 1,
+    "impressionType": "JobSearchSponsored"
+   },
+   {
+    "id": 510018,
+    "title": "Moving and Handling People in Health and Social Care Level 3 - CPD Accredited",
+    "url": "/courses/moving-and-handling-people-in-health-and-social-care-level-3-cpd-accredited/510018",
+    "price": "£15",
+    "type": "Online, Self-paced",
+    "searchKeywords": "nurse",
+    "position": 2,
+    "impressionType": "JobSearchSponsored"
+   },
+   {
+    "id": 392340,
+    "title": "Practice Nurse - Course",
+    "url": "/courses/practice-nurse-course/392340",
+    "price": "£15",
+    "type": "Online, Self-paced",
+    "searchKeywords": "nurse",
+    "position": 3,
+    "impressionType": "JobSearch"
+   }
+  ]
+ },
+ "savedSearch": {
+  "jobAlertId": null,
+  "jobAlertName": null
+ },
+ "isPathBlacklisted": false,
+ "filters": {
+  "keywords": {
+   "label": "Nurse",
+   "name": "keywords",
+   "selected": "nurse",
+   "type": "keyword",
+   "original": ""
+  },
+  "location": {
+   "label": "Leeds (20 miles)",
+   "name": "Location",
+   "selected": "leeds",
+   "original": ""
+  },
+  "distance": {
+   "label": "Distance",
+   "name": "proximity",
+   "selected": 20,
+   "original": 10,
+   "options": [
+    "0",
+    "1",
+    "3",
+    "5",
+    "10",
+    "15",
+    "20",
+    "30",
+    "50"
+   ]
+  },
+  "salary": {
+   "label": "Salary range",
+   "from": {
+    "label": "From:",
+    "name": "salaryFrom",
+    "options": [
+     {
+      "value": 0,
+      "text": "£ Any",
+      "selected": false
+     },
+     {
+      "value": 10000,
+      "text": "Upto £10,000",
+      "selected": false
+     },
+     {
+      "value": 12000,
+      "text": "£12,000",
+      "selected": false
+     },
+     {
+      "value": 14000,
+      "text": "£14,000",
+      "selected": false
+     },
+     {
+      "value": 16000,
+      "text": "£16,000",
+      "selected": false
+     },
+     {
+      "value": 18000,
+      "text": "£18,000",
+      "selected": false
+     },
+     {
+      "value": 20000,
+      "text": "£20,000",
+      "selected": false
+     },
+     {
+      "value": 22000,
+      "text": "£22,000",
+      "selected": false
+     },
+     {
+      "value": 24000,
+      "text": "£24,000",
+      "selected": false
+     },
+     {
+      "value": 26000,
+      "text": "£26,000",
+      "selected": false
+     },
+     {
+      "value": 28000,
+      "text": "£28,000",
+      "selected": false
+     },
+     {
+      "value": 30000,
+      "text": "£30,000",
+      "selected": false
+     },
+     {
+      "value": 32000,
+      "text": "£32,000",
+      "selected": false
+     },
+     {
+      "value": 34000,
+      "text": "£34,000",
+      "selected": false
+     },
+     {
+      "value": 36000,
+      "text": "£36,000",
+      "selected": false
+     },
+     {
+      "value": 38000,
+      "text": "£38,000",
+      "selected": false
+     },
+     {
+      "value": 40000,
+      "text": "£40,000",
+      "selected": false
+     },
+     {
+      "value": 42000,
+      "text": "£42,000",
+      "selected": false
+     },
+     {
+      "value": 44000,
+      "text": "£44,000",
+      "selected": false
+     },
+     {
+      "value": 46000,
+      "text": "£46,000",
+      "selected": false
+     },
+     {
+      "value": 48000,
+      "text": "£48,000",
+      "selected": false
+     },
+     {
+      "value": 50000,
+      "text": "£50,000",
+      "selected": false
+     },
+     {
+      "value": 55000,
+      "text": "£55,000",
+      "selected": false
+     },
+     {
+      "value": 60000,
+      "text": "£60,000",
+      "selected": false
+     },
+     {
+      "value": 65000,
+      "text": "£65,000",
+      "selected": false
+     },
+     {
+      "value": 70000,
+      "text": "£70,000",
+      "selected": false
+     },
+     {
+      "value": 75000,
+      "text": "£75,000",
+      "selected": false
+     },
+     {
+      "value": 80000,
+      "text": "£80,000",
+      "selected": false
+     },
+     {
+      "value": 85000,
+      "text": "£85,000",
+      "selected": false
+     },
+     {
+      "value": 90000,
+      "text": "£90,000",
+      "selected": false
+     },
+     {
+      "value": 95000,
+      "text": "£95,000",
+      "selected": false
+     },
+     {
+      "value": 100000,
+      "text": "£100,000+",
+      "selected": false
+     }
+    ],
+    "selected": 0,
+    "original": 0
+   },
+   "to": {
+    "label": "To:",
+    "name": "salaryTo",
+    "options": [
+     {
+      "value": 0,
+      "text": "£ Any",
+      "selected": false
+     },
+     {
+      "value": 10000,
+      "text": "Upto £10,000",
+      "selected": false
+     },
+     {
+      "value": 12000,
+      "text": "£12,000",
+      "selected": false
+     },
+     {
+      "value": 14000,
+      "text": "£14,000",
+      "selected": false
+     },
+     {
+      "value": 16000,
+      "text": "£16,000",
+      "selected": false
+     },
+     {
+      "value": 18000,
+      "text": "£18,000",
+      "selected": false
+     },
+     {
+      "value": 20000,
+      "text": "£20,000",
+      "selected": false
+     },
+     {
+      "value": 22000,
+      "text": "£22,000",
+      "selected": false
+     },
+     {
+      "value": 24000,
+      "text": "£24,000",
+      "selected": false
+     },
+     {
+      "value": 26000,
+      "text": "£26,000",
+      "selected": false
+     },
+     {
+      "value": 28000,
+      "text": "£28,000",
+      "selected": false
+     },
+     {
+      "value": 30000,
+      "text": "£30,000",
+      "selected": false
+     },
+     {
+      "value": 32000,
+      "text": "£32,000",
+      "selected": false
+     },
+     {
+      "value": 34000,
+      "text": "£34,000",
+      "selected": false
+     },
+     {
+      "value": 36000,
+      "text": "£36,000",
+      "selected": false
+     },
+     {
+      "value": 38000,
+      "text": "£38,000",
+      "selected": false
+     },
+     {
+      "value": 40000,
+      "text": "£40,000",
+      "selected": false
+     },
+     {
+      "value": 42000,
+      "text": "£42,000",
+      "selected": false
+     },
+     {
+      "value": 44000,
+      "text": "£44,000",
+      "selected": false
+     },
+     {
+      "value": 46000,
+      "text": "£46,000",
+      "selected": false
+     },
+     {
+      "value": 48000,
+      "text": "£48,000",
+      "selected": false
+     },
+     {
+      "value": 50000,
+      "text": "£50,000",
+      "selected": false
+     },
+     {
+      "value": 55000,
+      "text": "£55,000",
+      "selected": false
+     },
+     {
+      "value": 60000,
+      "text": "£60,000",
+      "selected": false
+     },
+     {
+      "value": 65000,
+      "text": "£65,000",
+      "selected": false
+     },
+     {
+      "value": 70000,
+      "text": "£70,000",
+      "selected": false
+     },
+     {
+      "value": 75000,
+      "text": "£75,000",
+      "selected": false
+     },
+     {
+      "value": 80000,
+      "text": "£80,000",
+      "selected": false
+     },
+     {
+      "value": 85000,
+      "text": "£85,000",
+      "selected": false
+     },
+     {
+      "value": 90000,
+      "text": "£90,000",
+      "selected": false
+     },
+     {
+      "value": 95000,
+      "text": "£95,000",
+      "selected": false
+     },
+     {
+      "value": 100000,
+      "text": "£100,000+",
+      "selected": false
+     }
+    ],
+    "selected": 0,
+    "original": 0
+   }
+  },
+  "jobType": {
+   "label": "Job type",
+   "options": [
+    {
+     "text": "Permanent",
+     "name": "perm",
+     "selected": true,
+     "disabled": false,
+     "count": "11",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Temporary",
+     "name": "temp",
+     "selected": false,
+     "disabled": false,
+     "count": "3",
+     "url": "/jobs/temporary-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&temp=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Contract",
+     "name": "contract",
+     "selected": false,
+     "disabled": false,
+     "count": "2",
+     "url": "/jobs/contract-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&contract=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Full-time",
+     "name": "fullTime",
+     "selected": false,
+     "disabled": false,
+     "count": "11",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&fullTime=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Part-time",
+     "name": "partTime",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/part-time-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&partTime=true&dateCreatedOffSet=lastweek"
+    }
+   ]
+  },
+  "dontShow": {
+   "label": "Hide",
+   "options": [
+    {
+     "text": "Jobs without salary displayed",
+     "name": "excludeSalaryDescriptions",
+     "selected": 0,
+     "disabled": false,
+     "count": null,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&hideJobsWithoutSalary=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Training courses",
+     "name": "hideTrainingJobs",
+     "selected": false,
+     "disabled": false,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&hideTrainingJobs=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Survey jobs",
+     "name": "hideSurveyJobs",
+     "selected": false,
+     "disabled": false,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&hideSurveyJobs=true&dateCreatedOffSet=lastweek"
+    }
+   ]
+  },
+  "datePosted": {
+   "label": "Date posted",
+   "name": "dateCreatedOffSet",
+   "selected": "lastweek",
+   "original": "anytime",
+   "options": [
+    {
+     "text": "Anytime",
+     "value": "anytime"
+    },
+    {
+     "text": "Today",
+     "value": "today",
+     "count": "0"
+    },
+    {
+     "text": "Last three days",
+     "value": "lastthreedays",
+     "count": "6"
+    },
+    {
+     "text": "Last week",
+     "value": "lastweek",
+     "count": "11"
+    },
+    {
+     "text": "Last two weeks",
+     "value": "lasttwoweeks",
+     "count": "31"
+    }
+   ]
+  },
+  "specialisms": {
+   "label": "Specialisms",
+   "options": [
+    {
+     "text": "Human Resources",
+     "name": "parentSectorIds.24",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=24"
+    },
+    {
+     "text": "Retail",
+     "name": "parentSectorIds.90",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=90"
+    },
+    {
+     "text": "Accountancy (Qualified)",
+     "name": "parentSectorIds.100",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=100"
+    },
+    {
+     "text": "Marketing & PR",
+     "name": "parentSectorIds.18",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=18"
+    },
+    {
+     "text": "Admin, Secretarial & PA",
+     "name": "parentSectorIds.3",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=3"
+    },
+    {
+     "text": "Recruitment Consultancy",
+     "name": "parentSectorIds.338",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=338"
+    },
+    {
+     "text": "IT & Telecoms",
+     "name": "parentSectorIds.52",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=52"
+    },
+    {
+     "text": "Accountancy",
+     "name": "parentSectorIds.2",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=2"
+    },
+    {
+     "text": "Strategy & Consultancy",
+     "name": "parentSectorIds.1755",
+     "selected": false,
+     "disabled": false,
+     "count": "1",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1755"
+    },
+    {
+     "text": "Engineering",
+     "name": "parentSectorIds.12",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=12"
+    },
+    {
+     "text": "Purchasing",
+     "name": "parentSectorIds.27",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=27"
+    },
+    {
+     "text": "Other",
+     "name": "parentSectorIds.21",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=21"
+    },
+    {
+     "text": "Legal",
+     "name": "parentSectorIds.101",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=101"
+    },
+    {
+     "text": "Financial Services",
+     "name": "parentSectorIds.117",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=117"
+    },
+    {
+     "text": "Banking",
+     "name": "parentSectorIds.5",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=5"
+    },
+    {
+     "text": "Sales",
+     "name": "parentSectorIds.30",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=30"
+    },
+    {
+     "text": "Construction & Property",
+     "name": "parentSectorIds.146",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=146"
+    },
+    {
+     "text": "General Insurance",
+     "name": "parentSectorIds.16",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=16"
+    },
+    {
+     "text": "Media, Digital & Creative",
+     "name": "parentSectorIds.71",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=71"
+    },
+    {
+     "text": "Leisure & Tourism",
+     "name": "parentSectorIds.92",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=92"
+    },
+    {
+     "text": "Charity & Voluntary",
+     "name": "parentSectorIds.500",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=500"
+    },
+    {
+     "text": "Transport & Logistics",
+     "name": "parentSectorIds.11",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=11"
+    },
+    {
+     "text": "Customer Service",
+     "name": "parentSectorIds.66",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=66"
+    },
+    {
+     "text": "Motoring & Automotive",
+     "name": "parentSectorIds.1700",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1700"
+    },
+    {
+     "text": "FMCG",
+     "name": "parentSectorIds.1722",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1722"
+    },
+    {
+     "text": "Energy",
+     "name": "parentSectorIds.1961",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1961"
+    },
+    {
+     "text": "Estate Agency",
+     "name": "parentSectorIds.1962",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1962"
+    },
+    {
+     "text": "Education",
+     "name": "parentSectorIds.68",
+     "selected": false,
+     "disabled": false,
+     "count": "6",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=68"
+    },
+    {
+     "text": "Scientific",
+     "name": "parentSectorIds.89",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=89"
+    },
+    {
+     "text": "Health & Medicine",
+     "name": "parentSectorIds.36",
+     "selected": false,
+     "disabled": false,
+     "count": "4",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=36"
+    },
+    {
+     "text": "Graduate Training & Internships",
+     "name": "parentSectorIds.169",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=169"
+    },
+    {
+     "text": "Social Care",
+     "name": "parentSectorIds.34",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=34"
+    },
+    {
+     "text": "Hospitality & Catering",
+     "name": "parentSectorIds.6",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=6"
+    },
+    {
+     "text": "Security & Safety",
+     "name": "parentSectorIds.1963",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1963"
+    },
+    {
+     "text": "Training",
+     "name": "parentSectorIds.1909",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1909"
+    },
+    {
+     "text": "Manufacturing",
+     "name": "parentSectorIds.168",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=168"
+    },
+    {
+     "text": "Apprenticeships",
+     "name": "parentSectorIds.1964",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&sectorIds=1964"
+    }
+   ]
+  },
+  "postedBy": {
+   "label": "Posted by",
+   "options": [
+    {
+     "text": "Agency",
+     "name": "agency",
+     "selected": false,
+     "disabled": false,
+     "count": "8",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&agency=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Employer",
+     "name": "direct",
+     "selected": false,
+     "disabled": false,
+     "count": "3",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&direct=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "text": "Reed",
+     "name": "isReed",
+     "selected": false,
+     "disabled": true,
+     "count": "0",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek&reed=true"
+    }
+   ]
+  },
+  "moreOptions": {
+   "label": "More options",
+   "options": [
+    {
+     "text": "Early bird",
+     "selected": false,
+     "name": "isEarlyBird",
+     "disabled": false,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&isEarlyBird=true&dateCreatedOffSet=lastweek",
+     "count": "2"
+    },
+    {
+     "text": "Easy apply",
+     "selected": false,
+     "name": "isEasyApply",
+     "disabled": false,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&isEasyApply=true&dateCreatedOffSet=lastweek",
+     "count": ""
+    },
+    {
+     "text": "Visa sponsorship",
+     "selected": false,
+     "name": "visaSponsorship",
+     "disabled": true,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&visaSponsorship=true&dateCreatedOffSet=lastweek",
+     "count": "0"
+    },
+    {
+     "text": "Jobs you haven't seen",
+     "selected": false,
+     "name": "excludeJobsViewed",
+     "disabled": false,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&excludeJobsViewed=true&dateCreatedOffSet=lastweek",
+     "count": ""
+    }
+   ]
+  },
+  "experience": {
+   "label": "Experience level",
+   "options": [
+    {
+     "text": "Graduate",
+     "selected": false,
+     "name": "graduate",
+     "disabled": false,
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&graduate=true&dateCreatedOffSet=lastweek",
+     "count": ""
+    }
+   ]
+  },
+  "childLocations": [
+   {
+    "text": "Leeds",
+    "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=Leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek",
+    "count": "4"
+   },
+   {
+    "text": "Harrogate",
+    "url": "/jobs/nurse-jobs-in-harrogate?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=Harrogate&proximity=20&perm=true&dateCreatedOffSet=lastweek",
+    "count": "2"
+   },
+   {
+    "text": "Doncaster",
+    "url": "/jobs/nurse-jobs-in-doncaster?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=Doncaster&proximity=20&perm=true&dateCreatedOffSet=lastweek",
+    "count": "1"
+   },
+   {
+    "text": "Pudsey",
+    "url": "/jobs/nurse-jobs-in-pudsey?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=Pudsey&proximity=20&perm=true&dateCreatedOffSet=lastweek",
+    "count": "1"
+   },
+   {
+    "text": "Wakefield",
+    "url": "/jobs/nurse-jobs-in-wakefield?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=Wakefield&proximity=20&perm=true&dateCreatedOffSet=lastweek",
+    "count": "1"
+   }
+  ],
+  "workingOption": {
+   "label": "Remote/On-site",
+   "groupName": "workingOption",
+   "options": [
+    {
+     "type": "radio",
+     "text": "Any",
+     "name": null,
+     "selected": true,
+     "disabled": false,
+     "count": "11",
+     "url": "/jobs/nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&dateCreatedOffSet=lastweek"
+    },
+    {
+     "type": "radio",
+     "text": "On-site",
+     "name": "onSite",
+     "selected": false,
+     "disabled": false,
+     "count": "11",
+     "url": "/jobs/on-site-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&workingOption=onSite&dateCreatedOffSet=lastweek"
+    },
+    {
+     "type": "radio",
+     "text": "Hybrid",
+     "name": "hybrid",
+     "selected": false,
+     "disabled": false,
+     "count": "0",
+     "url": "/jobs/hybrid-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&workingOption=hybrid&dateCreatedOffSet=lastweek"
+    },
+    {
+     "type": "radio",
+     "text": "Remote",
+     "name": "remote",
+     "selected": false,
+     "disabled": false,
+     "count": "0",
+     "url": "/jobs/remote-nurse-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM&keywords=nurse&locationName=leeds&proximity=20&perm=true&workingOption=remote&dateCreatedOffSet=lastweek"
+    }
+   ]
+  }
+ },
+ "criteria": {
+  "sortBy": "default",
+  "q": "",
+  "sid": "CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM",
+  "keywords": "nurse",
+  "location": {
+   "locationId": null,
+   "locationName": "leeds"
+  },
+  "parentSectorIds": [],
+  "proximity": 20,
+  "salaryFrom": 0,
+  "salaryTo": 0,
+  "perHour": false,
+  "perm": true,
+  "temp": false,
+  "partTime": false,
+  "fullTime": false,
+  "ouId": 0,
+  "recruiterName": "",
+  "clientProfileId": 0,
+  "isReed": false,
+  "agency": false,
+  "direct": false,
+  "graduate": false,
+  "contract": false,
+  "hideTrainingJobs": false,
+  "hideSurveyJobs": false,
+  "pageno": 1,
+  "take": 5,
+  "dateCreatedOffSet": "lastweek",
+  "seoDirectory": "nurse",
+  "isEarlyBird": false,
+  "visaSponsorship": false,
+  "isEasyApply": false,
+  "excludeJobsViewed": false,
+  "excludeSalaryDescriptions": [],
+  "hideJobsWithoutSalary": false,
+  "workingOption": null
+ },
+ "searchResults": {
+  "count": 11,
+  "jobs": [
+   {
+    "jobDetail": {
+     "jobId": 57452766,
+     "jobTitle": "Regional Clinical Lead (Registered Nurse)",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Extraordinary Care. Extraordinary Culture. Extraordinary Careers. Helping Hands was built on kindness, and that spirit continues to guide everything we do. We’re a purpose-driven team supporting people to live safely and independently in the homes...",
+     "dateCreated": "2026-10-13T09:54:05.233",
+     "dateUpdated": "2026-10-14T03:56:06.77",
+     "displayDate": "2026-10-13T09:54:05.233",
+     "expiryDate": "2026-11-24T09:54:05.24",
+     "displayLocationName": "Leeds",
+     "countyLocation": "West Yorkshire",
+     "featuredLabel": true,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": true,
+     "isTopJob": false,
+     "ouId": 559864,
+     "ouName": "Helping Hands",
+     "ouType": 2,
+     "ouTierId": 1,
+     "profileId": 44325,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 45000,
+     "salaryTo": 45000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Manager",
+     "taxonomyLevel2": "Clinical Manager",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": true,
+     "isEasyApply": false,
+     "eligibleUkOnly": true,
+     "paymentModel": "Tenancy"
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": "Helping Hands",
+    "profileUrl": "helping-hands-44325",
+    "url": "/jobs/regional-clinical-lead-registered-nurse/57452766",
+    "ouUrl": "/jobs/helping-hands-44325/p44325",
+    "logoImage": "Logo_44325.png"
+   },
+   {
+    "jobDetail": {
+     "jobId": 57452758,
+     "jobTitle": "Quality and Team Manager - Nursing",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Help our teams deliver consistent, high quality patient care. Quality and Team Manager - Nursing Affinity Care Salary: 40,000 to 45,000 depending on experience Location: Across eight GP practice sites in Bradford and Shipley Permanent | Full time...",
+     "dateCreated": "2026-10-13T09:53:11.94",
+     "dateUpdated": "2026-10-13T09:53:11.94",
+     "displayDate": "2026-10-13T09:53:11.937",
+     "expiryDate": "2026-11-24T23:55:00",
+     "displayLocationName": "Shipley",
+     "countyLocation": "West Yorkshire",
+     "featuredLabel": true,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": true,
+     "isTopJob": false,
+     "ouId": 692482,
+     "ouName": "Ad Talent Recruitment Ltd",
+     "ouType": 2,
+     "ouTierId": 1,
+     "profileId": 108830,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 40000,
+     "salaryTo": 45000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Nurse",
+     "taxonomyLevel2": "Manager Nurse",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": true,
+     "isEasyApply": true,
+     "eligibleUkOnly": true,
+     "paymentModel": "Tenancy"
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": "Ad Talent Recruitment Ltd",
+    "profileUrl": "ad-talent-recruitment-ltd",
+    "url": "/jobs/quality-and-team-manager-nursing/57452758",
+    "ouUrl": "/jobs/ad-talent-recruitment-ltd/p108830",
+    "logoImage": "Logo_108830.png"
+   },
+   {
+    "jobDetail": {
+     "jobId": 57454136,
+     "jobTitle": "Occupational Health Advisor",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Occupational Health Advisor Our leading in-house client near to Leeds is looking for an experienced Occupational Health Advisor, to work on a full-...",
+     "dateCreated": "2026-10-13T13:40:54.047",
+     "dateUpdated": "2026-10-13T13:40:54.047",
+     "displayDate": "2026-10-13T13:40:54.033",
+     "expiryDate": "2026-11-24T23:55:00",
+     "displayLocationName": "Leeds",
+     "countyLocation": "West Yorkshire",
+     "featuredLabel": true,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": false,
+     "isTopJob": false,
+     "ouId": 630255,
+     "ouName": "Gel Resourcing Ltd",
+     "ouType": 1,
+     "ouTierId": 2,
+     "profileId": 75239,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 49000,
+     "salaryTo": 50000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Advisor",
+     "taxonomyLevel2": "Health Advisor",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": false,
+     "isEasyApply": true,
+     "eligibleUkOnly": true,
+     "paymentModel": "Tenancy"
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": "Gel Resourcing Ltd",
+    "profileUrl": "gel-resourcing-ltd",
+    "url": "/jobs/occupational-health-advisor/57454136",
+    "ouUrl": "/jobs/gel-resourcing-ltd/p75239",
+    "logoImage": "Logo_75239.png"
+   },
+   {
+    "jobDetail": {
+     "jobId": 57443547,
+     "jobTitle": "Field Based Clinical Specialist",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Location: Field Based – Leeds / Yorkshire Salary: 35,000– 45,000 + Bonus + Company Car We are working with a specialist healthcare equipment provid...",
+     "dateCreated": "2026-10-09T17:35:29.17",
+     "dateUpdated": "2026-10-13T17:47:17.02",
+     "displayDate": "2026-10-09T17:35:29.157",
+     "expiryDate": "2026-11-20T23:59:59",
+     "displayLocationName": "Leeds",
+     "countyLocation": "West Yorkshire",
+     "featuredLabel": false,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": false,
+     "isTopJob": false,
+     "ouId": 11651,
+     "ouName": "The Work Shop",
+     "ouType": 1,
+     "ouTierId": 2,
+     "profileId": 3965,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 35000,
+     "salaryTo": 45000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Clinical",
+     "taxonomyLevel2": "Clinical Specialist",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": false,
+     "isEasyApply": true,
+     "eligibleUkOnly": true,
+     "paymentModel": "Tenancy"
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": "The Work Shop",
+    "profileUrl": "the-work-shop",
+    "url": "/jobs/field-based-clinical-specialist/57443547",
+    "ouUrl": "/jobs/the-work-shop/p3965",
+    "logoImage": "Logo_3965.png"
+   },
+   {
+    "jobDetail": {
+     "jobId": 57430120,
+     "jobTitle": "Registered Veterinary Nurse",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Registered Veterinary Nurse EVO Donc0033 Registered Veterinary Nurse On Site 2 White Lane, Doncaster, South Yorkshire, United Kingdom, DN8 5UJ Firs...",
+     "dateCreated": "2026-10-07T06:00:12.803",
+     "dateUpdated": "2026-10-07T07:53:01.713",
+     "displayDate": "2026-10-07T06:00:12.803",
+     "expiryDate": "2026-11-04T04:02:07.99",
+     "displayLocationName": "Doncaster",
+     "countyLocation": "South Yorkshire",
+     "featuredLabel": false,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": false,
+     "isTopJob": false,
+     "ouId": 702491,
+     "ouName": "CVS Group",
+     "ouType": 2,
+     "ouTierId": 3,
+     "profileId": null,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 27800,
+     "salaryTo": 32000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Nurse",
+     "taxonomyLevel2": "Registered Nurse",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": false,
+     "isEasyApply": false,
+     "eligibleUkOnly": true,
+     "paymentModel": ""
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": null,
+    "profileUrl": null,
+    "url": "/jobs/registered-veterinary-nurse/57430120",
+    "ouUrl": "/jobs/cvs-group/o702491",
+    "logoImage": null
+   }
+  ],
+  "promotedJobs": [
+   {
+    "jobDetail": {
+     "jobId": 57452766,
+     "jobTitle": "Regional Clinical Lead (Registered Nurse)",
+     "jobType": 1,
+     "jobDescriptionSnippet": "Extraordinary Care. Extraordinary Culture. Extraordinary Careers. Helping Hands was built on kindness, and that spirit continues to guide everything we do. We’re a purpose-driven team supporting people to live safely and independently in the homes...",
+     "dateCreated": "2026-10-13T09:54:05.233",
+     "dateUpdated": "2026-10-14T03:56:06.77",
+     "displayDate": "2026-10-13T09:54:05.233",
+     "expiryDate": "2026-11-24T09:54:05.24",
+     "displayLocationName": "Leeds",
+     "countyLocation": "West Yorkshire",
+     "featuredLabel": true,
+     "externalUrl": "",
+     "isFullTime": true,
+     "isPartTime": false,
+     "isPriority": false,
+     "isPromoted": true,
+     "isTopJob": false,
+     "ouId": 559864,
+     "ouName": "Helping Hands",
+     "ouType": 2,
+     "ouTierId": 1,
+     "profileId": 44325,
+     "salaryCurrencyId": 1,
+     "salaryDescription": 0,
+     "salaryFrom": 45000,
+     "salaryTo": 45000,
+     "salaryType": 5,
+     "taxonomyLevel1": "Manager",
+     "taxonomyLevel2": "Clinical Manager",
+     "workingOption": "onSite",
+     "isTrainingJob": false,
+     "isSurveyJob": false,
+     "isEarlyBird": true,
+     "isEasyApply": false,
+     "eligibleUkOnly": true,
+     "paymentModel": "Tenancy"
+    },
+    "hasApplied": false,
+    "isWithdrawn": false,
+    "isInSavedJobsList": false,
+    "isHidden": false,
+    "toggleDescription": false,
+    "profileName": "Helping Hands",
+    "profileUrl": "helping-hands-44325",
+    "url": "/jobs/regional-clinical-lead-registered-nurse/57452766",
+    "ouUrl": "/jobs/helping-hands-44325/p44325",
+    "logoImage": "Logo_44325.png"
+   }
+  ],
+  "searchFacets": {
+   "agency": 8,
+   "childLocations": {
+    "leeds": 4,
+    "harrogate": 2,
+    "doncaster": 1,
+    "pudsey": 1,
+    "wakefield": 1
+   },
+   "contract": 2,
+   "earlyBirdJobs": 2,
+   "employer": 3,
+   "fullTime": 11,
+   "last2Weeks": 31,
+   "last3Days": 6,
+   "lastWeek": 11,
+   "parentSectors": {
+    "36": 4,
+    "68": 6,
+    "1755": 1
+   },
+   "partTime": 0,
+   "permanent": 11,
+   "reed": 0,
+   "remoteWorkingOption": {
+    "on-Site": 11
+   },
+   "surveyJobs": 0,
+   "temp": 3,
+   "today": 0,
+   "trainingJobs": 0,
+   "visaSponsorshipJobs": 0
+  },
+  "ouProfileResults": [],
+  "hiddenJobs": [],
+  "preferredLocationName": "Leeds",
+  "locationSubstitutes": [],
+  "querySpeed": 79.71618000045419,
+  "companyProfile": null,
+  "similarSearchResponses": [
+   {
+    "JobTitle": "Care Assistant jobs",
+    "JobTitleUrl": "/jobs/care-assistant-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM"
+   },
+   {
+    "JobTitle": "Nhs jobs",
+    "JobTitleUrl": "/jobs/nhs-jobs-in-leeds?sid=CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM"
+   }
+  ],
+  "sid": "CxuAeyJrIjoicktqR05rdnl6R2MiLCJmIjoiemYtS3JldEJHOEUiLCJxIjoiNlBaaDBjTmR5b0EifQM"
+ },
+ "originalLocation": null,
+ "savedJobsData": null,
+ "profileData": null
+}

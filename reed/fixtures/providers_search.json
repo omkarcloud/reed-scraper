@@ -1,0 +1,322 @@
+{
+ "criteria": {
+  "searchText": "",
+  "page": 1,
+  "pageSize": 24
+ },
+ "results": [
+  {
+   "id": 1054,
+   "name": "21st Century New Media Limited",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/1054/1054_logo.png?v=1769042329",
+   "profileUrl": "/courses/provider-profiles/21st-century-new-media-limited",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 1,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3656,
+   "name": "2it Learning Ltd",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3656/3656_logo.png?v=1768871390",
+   "profileUrl": "/courses/2it-learning-ltd/p3656",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 5,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3281,
+   "name": "3 Minute Languages",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3281/3281_logo.png?v=1701959272",
+   "profileUrl": "/courses/provider-profiles/3-minute-languages",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 5,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2611,
+   "name": "4th Earth Ltd",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2611/2611_logo.png?v=1769127122",
+   "profileUrl": "/courses/provider-profiles/4th-earth-ltd",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 12,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 1560,
+   "name": "5 starcourses.co.uk",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/1560/1560_logo.png?v=1780043914",
+   "profileUrl": "/courses/provider-profiles/5-starcoursescouk",
+   "averageRating": 4.44,
+   "courses": {
+    "totalCount": 72,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3648,
+   "name": "A.R.T.S training services",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3648/3648_logo.png?v=1768867439",
+   "profileUrl": "/courses/provider-profiles/arts-training-services",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 3,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3357,
+   "name": "A99 Ltd",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3357/3357_logo.png?v=1701823125",
+   "profileUrl": "/courses/provider-profiles/a99-ltd",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 1,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3663,
+   "name": "Abbeydale Training Ltd",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3663/3663_logo.png?v=1737020195",
+   "profileUrl": "/courses/provider-profiles/abbeydale-training-ltd",
+   "averageRating": 5.0,
+   "courses": {
+    "totalCount": 1,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2865,
+   "name": "Abdullah Shabbir",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2865/2865_logo.png?v=1725386703",
+   "profileUrl": "/courses/provider-profiles/abdullah-shabbir",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 1,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2261,
+   "name": "Academy for Health & Fitness",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2261/2261_logo.png?v=1787572637",
+   "profileUrl": "/courses/provider-profiles/academy-for-health-fitness",
+   "averageRating": 4.58,
+   "courses": {
+    "totalCount": 315,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2670,
+   "name": "Academy of Ancient Magik",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2670/2670_logo.png?v=1773677938",
+   "profileUrl": "/courses/provider-profiles/academy-of-ancient-magik",
+   "averageRating": 4.98,
+   "courses": {
+    "totalCount": 13,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2747,
+   "name": "Academy of life success",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2747/2747_logo.png?v=1726236743",
+   "profileUrl": "/courses/provider-profiles/academy-of-life-success",
+   "averageRating": 4.76,
+   "courses": {
+    "totalCount": 12,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3334,
+   "name": "Access Courses Online",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3334/3334_logo.png?v=1730764853",
+   "profileUrl": "/courses/provider-profiles/access-courses-online",
+   "averageRating": 5.0,
+   "courses": {
+    "totalCount": 12,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2869,
+   "name": "Accounting Lecture",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2869/2869_logo.png?v=1769472890",
+   "profileUrl": "/courses/provider-profiles/accounting-lecture",
+   "averageRating": 4.7,
+   "courses": {
+    "totalCount": 18,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3680,
+   "name": "ACMS Training",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3680/3680_logo.png?v=1790844536",
+   "profileUrl": "/courses/provider-profiles/acms-training",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 5,
+    "online": true,
+    "classroom": true,
+    "onSite": false
+   }
+  },
+  {
+   "id": 454,
+   "name": "Acudemy",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/454/454_logo.png?v=1768994827",
+   "profileUrl": "/courses/provider-profiles/acudemy",
+   "averageRating": 4.33,
+   "courses": {
+    "totalCount": 198,
+    "online": true,
+    "classroom": true,
+    "onSite": true
+   }
+  },
+  {
+   "id": 163,
+   "name": "Acuity Training",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/163/163_logo.png?v=1776096119",
+   "profileUrl": "/courses/provider-profiles/acuity-training",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 3,
+    "online": false,
+    "classroom": true,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3041,
+   "name": "Adonis Anastasiou",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3041/3041_logo.png?v=1725528183",
+   "profileUrl": "/courses/provider-profiles/adonis-anastasiou",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 7,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 2806,
+   "name": "Advanced Ideas",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/2806/2806_logo.png?v=1768868142",
+   "profileUrl": "/courses/provider-profiles/advanced-ideas",
+   "averageRating": 3.92,
+   "courses": {
+    "totalCount": 110,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3770,
+   "name": "Advice4training Centre",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3770/3770_logo.png?v=1791556347",
+   "profileUrl": "/courses/provider-profiles/advice4training-centre",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 2,
+    "online": true,
+    "classroom": true,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3291,
+   "name": "African Cultural Association",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3291/3291_logo.png?v=1768867234",
+   "profileUrl": "/courses/provider-profiles/african-cultural-association",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 9,
+    "online": false,
+    "classroom": true,
+    "onSite": false
+   }
+  },
+  {
+   "id": 3168,
+   "name": "AheadHR",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3168/3168_logo.png?v=1782746554",
+   "profileUrl": "/courses/provider-profiles/aheadhr",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 2,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  },
+  {
+   "id": 1896,
+   "name": "AHR Consultants",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/1896/1896_logo.png?v=1776672562",
+   "profileUrl": "/courses/provider-profiles/ahr-consultants",
+   "averageRating": 5.0,
+   "courses": {
+    "totalCount": 28,
+    "online": false,
+    "classroom": false,
+    "onSite": true
+   }
+  },
+  {
+   "id": 3804,
+   "name": "AI Awareness",
+   "logoUrl": "https://resources.reed.co.uk/courses/providermedia/3804/3804_logo.png?v=1787232994",
+   "profileUrl": "/courses/provider-profiles/ai-awareness",
+   "averageRating": 0.0,
+   "courses": {
+    "totalCount": 28,
+    "online": true,
+    "classroom": false,
+    "onSite": false
+   }
+  }
+ ],
+ "totalResultCount": 467
+}
